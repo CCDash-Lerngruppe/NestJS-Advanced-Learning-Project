@@ -54,8 +54,8 @@ The purpose of this project is to enable developers to:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/nestJSLernen.git
-   cd nestJSLernen
+   git clone https://github.com/CCDash-Lerngruppe/NestJS-Advanced-Learning-Project.git
+   cd NestJS-Advanced-Learning-Project
    ```
 
 2. Install dependencies:
