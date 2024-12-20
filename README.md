@@ -54,8 +54,8 @@ The purpose of this project is to enable developers to:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/nestjs-advanced-learning.git
-   cd nestjs-advanced-learning
+   git clone https://github.com/your-username/nestJSLernen.git
+   cd nestJSLernen
    ```
 
 2. Install dependencies:
@@ -155,4 +155,4 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Contact
 
-For any questions or feedback, feel free to reach out to [your-email@example.com](mailto:your-email@example.com).
+For any questions or feedback, feel free to reach out to [support@josunlp.de](mailto:support@josunlp.de).
